@@ -5,4 +5,13 @@ That is totally fine for our project as we encourage changes and
 improvement from people who want to do so. MIT also seems to be a 
 pretty common license, so it will be easily understood. 
 
+
 CODE-OF-CONDUCT:
+We went with the Contributor Covenant. We chose this Code of Conduct because it 
+is one the most used Code of Conducts on the planet. Such open source giants 
+as Firefox, Google, Microsoft, and Linux, not to mention the 40000 other open 
+source projects. Becuase it is so common, it's rules will be easy for other
+programmers to understand.l
+
+CODE-OF-CONDUCT:
+
