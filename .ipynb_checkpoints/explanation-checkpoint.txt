@@ -1,0 +1,8 @@
+LICENSE: MIT
+We went with the MIT license. We chose this license because
+it is highly permissive, and has a very limited restriction on reuse.
+That is totally fine for our project as we encourage changes and 
+improvement from people who want to do so. MIT also seems to be a 
+pretty common license, so it will be easily understood. 
+
+CODE-OF-CONDUCT:
